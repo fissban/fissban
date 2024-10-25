@@ -31,3 +31,5 @@ Aunque me especializo en el **frontend**, participo activamente en todo el proce
 
 - **LinkedIn:** [Marco Faccio](https://www.linkedin.com/in/marco-faccio-28244942/)
 - **GitHub:** [fissban](https://github.com/fissban)
+- **Email:** marco.faccio@gmail.com
+- **Telefono:** +542995952183
