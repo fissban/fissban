@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hola, soy Marco Faccio
 
 Soy un desarrollador de software con pasión por crear aplicaciones escalables y fáciles de usar, con un enfoque principal en el **desarrollo frontend**. Sin embargo, mi experiencia abarca todo el proceso de desarrollo, desde la **modelación de bases de datos** hasta los **servicios backend**. He tenido la oportunidad de trabajar en una variedad de proyectos, incluyendo **sistemas SCADA** para la industria petrolera y **aplicaciones web internas** para uso administrativo en empresas.
