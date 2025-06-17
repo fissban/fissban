@@ -2,6 +2,25 @@
 
 Soy un desarrollador de software con pasión por crear aplicaciones escalables y fáciles de usar, con un enfoque principal en el **desarrollo frontend**. Sin embargo, mi experiencia abarca todo el proceso de desarrollo, desde la **modelación de bases de datos** hasta los **servicios backend**. He tenido la oportunidad de trabajar en una variedad de proyectos, incluyendo **sistemas SCADA** para la industria petrolera y **aplicaciones web internas** para uso administrativo en empresas.
 
+## Experiencia Laboral
+
+**Logos**  
+_Líder de Proyecto y Programador_  
+_Enero 2023 - Actualidad_  
+- Contratación y onboarding de nuevos programadores y roles afines.
+- Reuniones con clientes para análisis y relevamiento de requerimientos.
+- Planificación de proyectos, definición de roadmap y seguimiento de avances.
+- Asignación de tareas y gestión de equipo de desarrollo.
+- Selección de tecnologías y stack adecuado para cada proyecto.
+- Desarrollo y programación activa en los proyectos principales.
+
+**Rakiduamn**  
+_Desarrollador de aplicaciones SCADA_  
+_Enero 2021 - Diciembre 2022_  
+- Desarrollo y mantenimiento de aplicaciones SCADA.
+- Participación en la definición de soluciones técnicas.
+- Colaboración con equipos multidisciplinarios para la integración de sistemas.
+  
 ## 🔧 Tecnologías y Habilidades
 
 - **Frontend:** Angular, Ionic, sistemas SCADA (Ignition)
